@@ -1,0 +1,103 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.head_t{
+    height: 117px;
+}
+
+.inner_t{
+    width: 1100px;
+    margin: 0 auto;
+}
+.logo_t{
+    margin-top:32px;
+    float: left;
+}
+.tel_t{
+    margin-right:110px;
+    float: right;
+}
+nav{
+    height: 32px;
+}
+ul{
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 30px;
+
+}
+li{
+    width: 120px;
+    height: 50px; ;
+    float:left;
+    list-style: none;
+    border-left:1px dashed grey;
+    border-right: 1px dashed grey;
+    margin-right: 2px;
+    text-align: center;
+    line-height: 50px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-family: "KaiTi";
+    font-size:22px;
+    font-style: normal;
+    text-transform:capitalize;
+
+}
+#banner{
+    margin-top: 40px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #DE476E;
+
+}
+.main_1_title{
+    width: 360px;
+    border-left:2px solid red;
+    border-right:2px solid red;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+    font-family: 宋体;
+    margin-top: 16px;
+    font-size:14px;
+}
+.main_m{
+    margin-top: 20px;
+    height: 355px;
+}
+.main_m div:nth-child(1){
+    float: left;
+}
+.main_m div:nth-child(2){
+    float: right;
+
+
+}
+.main_b{
+    height: 260px;
+    margin-top: 30px;
+}
+.main_b div{
+    float: left;
+    margin-right: 20px;
+}
+.main_b div:nth-child(4){
+    margin-right: 0;
+}
+footer{
+    margin-top: 65px;
+}
+
+
+
